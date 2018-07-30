@@ -1,0 +1,11 @@
+use_frameworks!
+
+target 'EZLayout_Example' do
+  pod 'EZLayout', :path => '../'
+
+  target 'EZLayout_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
