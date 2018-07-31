@@ -30,7 +30,7 @@
 /* Begin PBXFileReference section */
 		038F149CC04C34E14748662D /* Pods_TinyLayout_Example.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TinyLayout_Example.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		317799D1D668DE509B2117E2 /* Pods-TinyLayout_Tests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TinyLayout_Tests.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TinyLayout_Tests/Pods-TinyLayout_Tests.debug.xcconfig"; sourceTree = "<group>"; };
-		504C4622EC8C35B8D3D2D908 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
+		504C4622EC8C35B8D3D2D908 /* LICENSE */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = LICENSE; path = ../LICENSE; sourceTree = "<group>"; };
 		5193D8F763F33B84EA76B27A /* Pods-TinyLayout_Example.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TinyLayout_Example.debug.xcconfig"; path = "Pods/Target Support Files/Pods-TinyLayout_Example/Pods-TinyLayout_Example.debug.xcconfig"; sourceTree = "<group>"; };
 		607FACD01AFB9204008FA782 /* TinyLayout_Example.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TinyLayout_Example.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		607FACD41AFB9204008FA782 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
@@ -45,8 +45,8 @@
 		8BCADD195B5266A59787C4D1 /* Pods-TinyLayout_Tests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TinyLayout_Tests.release.xcconfig"; path = "Pods/Target Support Files/Pods-TinyLayout_Tests/Pods-TinyLayout_Tests.release.xcconfig"; sourceTree = "<group>"; };
 		948405FFB4F3FAFF0531F6D0 /* Pods_TinyLayout_Tests.framework */ = {isa = PBXFileReference; explicitFileType = wrapper.framework; includeInIndex = 0; path = Pods_TinyLayout_Tests.framework; sourceTree = BUILT_PRODUCTS_DIR; };
 		AC2922A94806F45946BD0611 /* Pods-TinyLayout_Example.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-TinyLayout_Example.release.xcconfig"; path = "Pods/Target Support Files/Pods-TinyLayout_Example/Pods-TinyLayout_Example.release.xcconfig"; sourceTree = "<group>"; };
-		C5C547787DE8413C5399A115 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; name = README.md; path = ../README.md; sourceTree = "<group>"; };
-		E716E1B154B2102C9C275E22 /* TinyLayout.podspec */ = {isa = PBXFileReference; includeInIndex = 1; name = TinyLayout.podspec; path = ../TinyLayout.podspec; sourceTree = "<group>"; };
+		C5C547787DE8413C5399A115 /* README.md */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = net.daringfireball.markdown; name = README.md; path = ../README.md; sourceTree = "<group>"; };
+		E716E1B154B2102C9C275E22 /* TinyLayout.podspec */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text; name = TinyLayout.podspec; path = ../TinyLayout.podspec; sourceTree = "<group>"; xcLanguageSpecificationIdentifier = xcode.lang.ruby; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */

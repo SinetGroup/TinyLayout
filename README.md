@@ -1,6 +1,6 @@
 # TinyLayout
 
-[![CI Status](https://img.shields.io/travis/c084fb7fb07bc0f28730b6662b3108d600c70332/TinyLayout.svg?style=flat)](https://travis-ci.org/c084fb7fb07bc0f28730b6662b3108d600c70332/TinyLayout)
+[![CI Status](https://img.shields.io/travis/sinetgroup/TinyLayout.svg?style=flat)](https://travis-ci.org/sinetgroup/TinyLayout)
 [![Version](https://img.shields.io/cocoapods/v/TinyLayout.svg?style=flat)](https://cocoapods.org/pods/TinyLayout)
 [![License](https://img.shields.io/cocoapods/l/TinyLayout.svg?style=flat)](https://cocoapods.org/pods/TinyLayout)
 [![Platform](https://img.shields.io/cocoapods/p/TinyLayout.svg?style=flat)](https://cocoapods.org/pods/TinyLayout)
@@ -22,7 +22,7 @@ pod 'TinyLayout'
 
 ## Author
 
-c084fb7fb07bc0f28730b6662b3108d600c70332, teterin1vl@gmail.com
+Sinet Group, http://sinetgroup.ru/
 
 ## License
 
