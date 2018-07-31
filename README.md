@@ -22,7 +22,7 @@ pod 'EZLayout'
 
 ## Author
 
-c084fb7fb07bc0f28730b6662b3108d600c70332, teterin1vl@gmail.com
+LookForward, teterin1vl@gmail.com
 
 ## License
 

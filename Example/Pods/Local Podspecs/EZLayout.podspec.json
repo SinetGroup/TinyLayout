@@ -1,0 +1,22 @@
+{
+  "name": "EZLayout",
+  "version": "0.1.0",
+  "summary": "A short description of EZLayout.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/c084fb7fb07bc0f28730b6662b3108d600c70332/EZLayout",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "c084fb7fb07bc0f28730b6662b3108d600c70332": "teterin1vl@gmail.com"
+  },
+  "source": {
+    "git": "https://github.com/c084fb7fb07bc0f28730b6662b3108d600c70332/EZLayout.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "EZLayout/Classes/**/*"
+}

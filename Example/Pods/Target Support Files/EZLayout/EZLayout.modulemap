@@ -1,0 +1,6 @@
+framework module EZLayout {
+  umbrella header "EZLayout-umbrella.h"
+
+  export *
+  module * { export * }
+}
