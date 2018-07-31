@@ -1,6 +1,6 @@
 # TinyLayout
 
-[![CI Status](https://img.shields.io/travis/SinetGroup/TinyLayout.svg)](https://travis-ci.org/sinetgroup/TinyLayout)
+[![CI Status](https://img.shields.io/travis/SinetGroup/TinyLayout.svg)](https://travis-ci.org/SinetGroup/TinyLayout)
 [![Version](https://img.shields.io/cocoapods/v/TinyLayout.svg)](https://cocoapods.org/pods/TinyLayout)
 [![License](https://img.shields.io/cocoapods/l/TinyLayout.svg?)](https://cocoapods.org/pods/TinyLayout)
 [![Platform](https://img.shields.io/cocoapods/p/TinyLayout.svg)](https://cocoapods.org/pods/TinyLayout)

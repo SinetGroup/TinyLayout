@@ -1,6 +1,7 @@
 use_frameworks!
 
 target 'TinyLayout_Example' do
+  inhibit_all_warnings!
   pod 'TinyLayout', :path => '../'
 
   target 'TinyLayout_Tests' do
