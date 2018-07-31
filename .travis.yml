@@ -6,6 +6,7 @@ osx_image: xcode10.3
 language: objective-c
 podfile: Example/Podfile
 before_install:
+- gem install cocoapods
 - pod install --project-directory=Example
 script:
 - set -o pipefail && xcodebuild test -enableCodeCoverage YES -workspace Example/TinyLayout.xcworkspace -scheme TinyLayout-Example -sdk iphonesimulator9.3 ONLY_ACTIVE_ARCH=NO | xcpretty

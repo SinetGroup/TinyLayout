@@ -4,7 +4,7 @@ Pod::Spec.new do |s|
     
     s.summary          = 'Human-friendly autolayout. So sweet!'
     s.description      = <<-DESC
-        With Tiny Constraints you forgot about ugly view.firstBaselineAnchor.constraint(blah-blah-blah)
+        With Tiny Constraints you will forget about ugly view.firstBaselineAnchor.constraint(blah-blah-blah)
     DESC
     
     s.homepage         = 'https://github.com/SinetGroup/TinyLayout'
