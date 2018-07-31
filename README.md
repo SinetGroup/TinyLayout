@@ -1,15 +1,15 @@
 # TinyLayout
 
-[![CI Status](https://img.shields.io/travis/sinetgroup/TinyLayout.svg?style=flat)](https://travis-ci.org/sinetgroup/TinyLayout)
-[![Version](https://img.shields.io/cocoapods/v/TinyLayout.svg?style=flat)](https://cocoapods.org/pods/TinyLayout)
-[![License](https://img.shields.io/cocoapods/l/TinyLayout.svg?style=flat)](https://cocoapods.org/pods/TinyLayout)
-[![Platform](https://img.shields.io/cocoapods/p/TinyLayout.svg?style=flat)](https://cocoapods.org/pods/TinyLayout)
+[![CI Status](https://img.shields.io/travis/sinetgroup/TinyLayout.svg)](https://travis-ci.org/sinetgroup/TinyLayout)
+[![Version](https://img.shields.io/cocoapods/v/TinyLayout.svg)](https://cocoapods.org/pods/TinyLayout)
+[![License](https://img.shields.io/cocoapods/l/TinyLayout.svg?)](https://cocoapods.org/pods/TinyLayout)
+[![Platform](https://img.shields.io/cocoapods/p/TinyLayout.svg)](https://cocoapods.org/pods/TinyLayout)
+[![Downloads](https://img.shields.io/cocoapods/dt/TinyLayout.svg)](https://cocoapods.org/pods/TinyLayout)
+
 
 ## Example
 
 To run the example project, clone the repo, and run `pod install` from the Example directory first.
-
-## Requirements
 
 ## Installation
 

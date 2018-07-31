@@ -2,8 +2,8 @@
 # * https://www.objc.io/issues/6-build-tools/travis-ci/
 # * https://github.com/supermarin/xcpretty#usage
 
-osx_image: xcode9.4
-language: swift
+osx_image: xcode10.3
+language: objective-c
 podfile: Example/Podfile
 before_install:
 - gem install cocoapods
