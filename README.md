@@ -17,7 +17,7 @@ EZLayout is available through [CocoaPods](https://cocoapods.org). To install
 it, simply add the following line to your Podfile:
 
 ```ruby
-pod 'EZLayout'
+pod 'EZLayout', :git => 'https://github.com/SinetGroup/EZLayout.git'
 ```
 
 ## Author
