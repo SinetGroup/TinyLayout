@@ -1,7 +1,8 @@
 use_frameworks!
+platform :ios, '9.0'
+inhibit_all_warnings!
 
 target 'TinyLayout_Example' do
-  inhibit_all_warnings!
   pod 'TinyLayout', :path => '../'
 
   target 'TinyLayout_Tests' do
